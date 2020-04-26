@@ -1,0 +1,10 @@
+1;ядро;1;1;0;fsacore10;0;;
+2;переменные;1;1;0;fsavar10;0;;
+3;драйверы;1;1;0;FsaDrv10;1;;
+4;процессы;1;1;0;fsaprc10;1;;
+5;математика;1;1;0;Math10;15;../../Fsa_DLLs/Math10/Math10/debug/Math10;
+12; fsagdip;1;1;0;fsagdip;15;../../Fsa_DLLs/fsagdip/fsagdip/debug/fsagdip;
+202;FsaNet;1;1;0;FsaNet;6;../../FsaNet/debug/FsaNet;
+600;Примеры;1;1;0;Examples;7;../../FsaExampl/debug/FsaExampl;
+//
+D:/FsaQT/Win7/_AllLibrariesOfVCPa

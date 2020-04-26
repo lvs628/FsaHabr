@@ -1,0 +1,13 @@
+CDlgVariableView;327;265;
+CDlgSetInputVar;306;378;
+CDlgViewOutputVar;303;373;
+CDlgTrends;623;397;
+CDlgGrafConf;250;300;
+CDlgGrafVar;250;300;
+CDlgVarView;250;300;
+CDlgTrends2D;566;602;
+CDlgGraf2DConf;250;300;
+CDlgGraf2DVar;250;300;
+CDlgVar2DView;250;300;
+CDlgFilterVar;250;300;
+CDlgInitVariables;250;300;

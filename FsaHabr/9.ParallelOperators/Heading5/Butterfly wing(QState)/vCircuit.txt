@@ -1,0 +1,4 @@
+x_sin->B;sinB.y;B;;0;
+x_sin->x;x_sin;x;;0;
+//
+0

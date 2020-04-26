@@ -1,0 +1,9 @@
+CDlgControl;250;300;
+CDlgViewControls;250;300;
+CDlgMotor;250;300;
+CDlgLockKnob;250;300;
+CDlgViewData;250;300;
+CDlgLamp;250;300;
+CDlgCnTank;250;300;
+CDlgCockShutter;250;300;
+CDlgPushButton;250;300;

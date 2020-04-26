@@ -1,0 +1,2 @@
+CDlgDgtFilter;441;343;
+CDlgFilterBat;250;300;

@@ -1,0 +1,12 @@
+A;;0;1;0;0;;no trend;0.2;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
+B;;0;1;0;0;;no trend;0.2;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
+C;;0;1;0;0;;no trend;100;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
+x;;0;1;0;0;;no trend;-68;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
+x+;;0;1;0;0;;no trend;0.1;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
+y1(x);;0;0;0;0;;no trend;;;;;;;;dTXC;dCorrection;InitFsaWorld;6;0;0;0;0;0;0;0;0;0;
+y1[t](x[t-4]);;0;0;0;0;;no trend;;;;;;;;dTXC;dCorrection;InitFsaWorld;6;0;0;0;0;0;0;0;0;0;
+y2(x);;0;0;0;0;;no trend;;;;;;;;dTXC;dCorrection;InitFsaWorld;6;0;0;0;0;0;0;0;0;0;
+y2[t](x[t-1]);;0;0;0;0;;no trend;;;;;;;;dTXC;dCorrection;InitFsaWorld;6;0;0;0;0;0;0;0;0;0;
+y1==y2;;0;0;0;0;;no trend;;;;;;;;dTXC;dCorrection;InitFsaWorld;6;0;0;0;0;0;0;0;0;0;
+//
+0
