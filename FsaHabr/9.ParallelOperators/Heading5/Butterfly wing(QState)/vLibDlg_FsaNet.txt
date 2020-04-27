@@ -1,6 +1,0 @@
-CDlgAutomaton;250;300;
-CDlgDiscreteTime;250;300;
-CDlgViewFsaNet;606;495;
-CDlgViewAutomaton;369;464;
-CDlgCopyVarFSA;631;367;
-CDlgMngmntOfLibraries;250;300;

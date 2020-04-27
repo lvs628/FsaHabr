@@ -1,6 +1,0 @@
-CDlgUdp;250;300;
-CDlgTCPServer;250;300;
-CDlgTCPClient;250;300;
-CDlgUdpClient;250;300;
-CDlgUdpServer;250;300;
-CDlgUdpReadWrite;250;300;

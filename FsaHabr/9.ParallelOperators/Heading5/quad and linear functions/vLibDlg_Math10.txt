@@ -1,5 +1,0 @@
-CDlgArithm1;250;300;
-CDlgArithm2;408;249;
-CDlgCoordToPolar;250;300;
-CDlgOprComparison;351;256;
-CDlgQuadric;402;210;

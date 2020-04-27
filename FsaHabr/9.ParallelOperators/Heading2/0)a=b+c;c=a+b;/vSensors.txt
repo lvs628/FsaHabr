@@ -1,5 +1,0 @@
-A;current state;0;1;0;0;;no trend;1;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
-B;current state;0;1;0;0;;no trend;1;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
-C;current state;0;1;0;0;;no trend;0;;;;;;;dTXC;dCorrection;InitFsaWorld;3;0;0;0;0;0;0;0;0;0;
-//
-0

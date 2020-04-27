@@ -1,8 +1,0 @@
-CDlgQuestBull;250;300;
-CDlgCalculator;250;300;
-CDlgTAcceptor;250;300;
-CDlgTIncrement;250;300;
-CDlgTGrCmDiv;250;300;
-CDlgTListing2;250;300;
-CDlgMainDPP;250;300;
-CDlgQArithm2;250;300;

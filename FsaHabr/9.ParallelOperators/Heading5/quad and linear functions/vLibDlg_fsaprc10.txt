@@ -1,6 +1,0 @@
-CDlgCoreSetting;540;421;
-CDlgCoreVarFSA;525;435;
-CDlgCoreMonFSA;509;416;
-CDlgCircuit;555;255;
-CDlgMonTrends;501;217;
-CDlgMonTrends2D;516;301;

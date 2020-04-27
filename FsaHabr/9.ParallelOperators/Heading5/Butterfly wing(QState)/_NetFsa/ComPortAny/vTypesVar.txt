@@ -1,1 +1,0 @@
-unknown;bool;integer;double;string;graph1D;graph2D;fsa;fsa(state);call(fsa);parallel(fsa)

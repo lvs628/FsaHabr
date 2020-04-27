@@ -1,1 +1,0 @@
-CDlgComPortReadWrite;250;300;
